@@ -1,0 +1,32 @@
+{
+  "name": "streaming-set",
+  "version": "1.0.0",
+  "description": "git@github.com:urbanairship/streaming-set.git",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/urbanairship/streaming-set.git"
+  },
+  "keywords": [
+    "stream",
+    "set"
+  ],
+  "author": "Urban Airship",
+  "license": "APACHE-V2",
+  "bugs": {
+    "url": "https://github.com/urbanairship/streaming-set/issues"
+  },
+  "homepage": "https://github.com/urbanairship/streaming-set",
+  "dependencies": {
+    "through": "^2.3.7"
+  },
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
