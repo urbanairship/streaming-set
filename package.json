@@ -18,7 +18,7 @@
     "set"
   ],
   "author": "Urban Airship",
-  "license": "APACHE-V2",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/urbanairship/streaming-set/issues"
   },

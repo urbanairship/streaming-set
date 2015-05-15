@@ -1,3 +1,6 @@
+/**
+ * Copyright 2015 Urban Airship and Contributors
+ */
 var through = require('through')
 
 return module.exports = set
