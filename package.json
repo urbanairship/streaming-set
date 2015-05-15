@@ -1,6 +1,6 @@
 {
   "name": "streaming-set",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A stream which adds objects written to it to a set, and emits the updated set.",
   "main": "index.js",
   "directories": {
