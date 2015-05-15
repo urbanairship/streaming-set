@@ -1,7 +1,7 @@
 {
   "name": "streaming-set",
   "version": "1.0.0",
-  "description": "git@github.com:urbanairship/streaming-set.git",
+  "description": "A stream which adds objects written to it to a set, and emits the updated set.",
   "main": "index.js",
   "directories": {
     "test": "test"
