@@ -2,6 +2,9 @@
 
 A stream which adds objects written to it to a set, and emits the updated set.
 
+[![Build Status](http://img.shields.io/travis/urbanairship/streaming-set/master.svg?style=flat)](https://travis-ci.org/urbanairship/streaming-set)
+[![npm install](http://img.shields.io/npm/dm/streaming-set.svg?style=flat)](https://www.npmjs.org/package/streaming-set)
+
 ## Example
 
 ```javascript
