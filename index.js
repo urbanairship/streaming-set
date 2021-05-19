@@ -3,7 +3,7 @@
  */
 var through = require('through')
 
-return module.exports = set
+module.exports = set
 
 function set(items, identify) {
   var stream = through(add)
